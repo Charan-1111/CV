@@ -1,6 +1,9 @@
 body {
     background-color:#FAF8F1;
 }
+p{
+    width: 100%;
+}
 
 hr {
     background-color: white;
